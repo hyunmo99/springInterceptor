@@ -3,6 +3,11 @@
 - 🙇‍♀️
 - 🙇‍♀️
 1. 첫번째
+2. [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunmo99)]
+
+3. [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmo99)]
+4. 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunmo99&hide=contribs,prs&show_icons=true&theme=테마)
 
 ![고양이](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByY_Ip_nR0kpgkeD1FftobJiOtTXyGn54-KFFp3ECRxqkoynKSiwnM-ymdbcb0UqhmomiqA8MrzzVW4oNfoS7P1jx3iNEk1OKByoK_kYw&s=10)
 
