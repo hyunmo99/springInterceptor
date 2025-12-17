@@ -6,6 +6,7 @@
 
 ![고양이](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQByY_Ip_nR0kpgkeD1FftobJiOtTXyGn54-KFFp3ECRxqkoynKSiwnM-ymdbcb0UqhmomiqA8MrzzVW4oNfoS7P1jx3iNEk1OKByoK_kYw&s=10)
 
+<b><a href="https://github.com/hyunmo99/springInterceptor/blob/master/src/main/java/com/spring/springinterceptor/controller/AdminController.java" target="_blank" />게시판 컨트롤러</b>
 <table>
   <tr>
     <th>1</th>
